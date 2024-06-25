@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="bodyPesquisar">
+    <div id="containerPesquisa">
+        <div id="espacoSelect">
+            <div class="radios">
+                <label>Nome</label>
+                <input type="radio" name="inputPesquisa" value="nome">
+            </div>
+            <div class="radios">
+                <label>E-Mail</label>
+                <input type="radio" name="inputPesquisa" value="email">
+            </div>
+            <div class="radios">
+                <label>Celular</label>
+                <input type="radio" name="inputPesquisa" value="celular">
+            </div>
+            <div class="radios">
+                <label>Data de Nascimento</label>
+                <input type="radio" name="inputPesquisa" value="dataNasc">
+            </div>
+        </div>
+        <div id="espacoInsert">
+            <input type="text" id="contatoPesquisa" name="containerPesquisa">
+            <button id="btnPesquisa">Pesquisar</button>
+        </div>
+        <div id="statusBusca">
+            
+        </div>
+        <div id="conteudoEncontrado">
+            <div id="titulos">
+                <div class="titulo ci">ID</div>
+                <div class="titulo c">Nome</div>
+                <div class="titulo c">E-Mail</div>
+                <div class="titulo c">Celular</div>
+                <div class="titulo c">Data de Nascimento</div>
+            </div>
+            <div id="dados">
+
+            </div>
+        </div>
+    </div>
+   
+
+    <script type="module" src="pesquisar.js"></script>
+</body>
+
+</html>
