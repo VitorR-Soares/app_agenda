@@ -1,3 +1,4 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/status-Conclu%C3%ADdo-green">
 ### PROJETO AGENDA
 - Esse é um sistema de CRUD para um sistema de agenda
 
