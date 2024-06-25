@@ -18,14 +18,13 @@
 
 <h1>Interfaces</h1>
 
-![Adição de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/c56977b3-f0f8-4072-9f0a-31164ca15e61)
+![Adição de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/509a9e5b-75b3-4b7c-8fc1-cbfe3bc72611)
 
 
-
-![Pesquisa de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/9b2a0865-d2b0-49b3-a8f7-d8d9a572a8d9)
-
+![Pesquisa de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/d55ccfde-6e48-47cd-8e0c-87c56876b981)
 
 
-![Grid de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/c5330199-391c-4a16-a358-33f366b2f5ed)
+![Grid de Contatos](https://github.com/VitorR-Soares/app_agenda/assets/160509234/c50bd9ae-370d-4d55-ad6a-f69face03644)
+
 
 
